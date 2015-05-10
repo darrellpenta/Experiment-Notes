@@ -1,0 +1,19 @@
+DISCO
+-------
+-Transcribed up to 12
+-R script to turn the MEL output file into an excel spreadsheet
+-R script for creating the F1 and F2 data files
+-R script for running factorial analyses
+Goal: Finish transcribing up to 50 and run analyses
+
+
+REPRIME
+-------
+-R script for F1 and F2 analyses for SemRel and SemRel 2 items
+Goal: Norming of unrelated items; finish analyses; 
+
+SEMREL
+--------
+-R script for regressions is basically ready
+Goal: Finish analyses
+
