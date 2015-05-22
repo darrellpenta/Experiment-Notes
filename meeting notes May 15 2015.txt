@@ -6,9 +6,27 @@ ME of Int
 ME of Rel
 --Nuisance factors are regressed out??
 ********DP 
--5/18 - Got a working version of F1; need to meet with NP to discuss
+
+********NP
+-5/19 - Get all data, including singular
+--Fix scaling
+--What to do about residuals
+--Add mFULL model with all items in error (int*ass*rel)
+--look at interactions!!
+--random effects structure (Barr et al. )
+--drop char length??
+--drop rel.lh
+--analyses with and without association
+--slopes for nuisance factors
+--How about when we can't keep it maximal??
+--Association!!!
+--individual correlations
+--Check CAT COR data
+--all three models together (skip resids for overall)
 
 
+=========
+Mixed effect logit regressions???
 
 
 
