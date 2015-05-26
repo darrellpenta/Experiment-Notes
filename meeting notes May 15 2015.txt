@@ -6,21 +6,20 @@ ME of Int
 ME of Rel
 --Nuisance factors are regressed out??
 ********DP 
-
+5/25 see regression notes docs
 ********NP
 -5/19 - Get all data, including singular
---Fix scaling
---What to do about residuals
---Add mFULL model with all items in error (int*ass*rel)
---look at interactions!!
+
+--What to do about residuals (notes taken)
+--Add mFULL model with all items in error (int*ass*rel) (not working, higher order interactions possibly working)
+--look at interactions!! (appears to work)
 --random effects structure (Barr et al. )
---drop char length??
---drop rel.lh
+--drop char length?? (Adressed)
 --analyses with and without association
---slopes for nuisance factors
---How about when we can't keep it maximal??
---Association!!!
+--slopes for nuisance factors  http://stats.stackexchange.com/questions/130714/random-and-fixed-effects-structure-in-linear-mixed-models
+--Association!!! has been fixed
 --individual correlations
+
 --Check CAT COR data
 --all three models together (skip resids for overall)
 
