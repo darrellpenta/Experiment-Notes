@@ -1,5 +1,20 @@
 1. SEMREL
 -------
+
+
+============== 6/3 MEETING
+--Look at relationships not scaled and centered??
+--SEMREL 1 drop association
+--CAT rel * Int 
+--PROP ALL THREE (all in random effects) 3 way in both
+-- Prop full with Just int, just rel
+--Tease apart all three 
+---ALL THREE 
+No association (REL AND INTEGRATION)
+
+
+
+
 -emp log weighted....
 ME of Int 
 --both as continuous and dichotmous factors
@@ -27,17 +42,6 @@ ME of Rel
 =========
 Mixed effect logit regressions???
 
-
-+++++++ 6/3
---Look at relationships not scaled and centered??
---SEMREL 1 drop association
---CAT rel * Int 
---PROP ALL THREE (all in random effects) 3 way in both
--- Prop full with Just int, just rel
---Tease apart all three 
-
-ALL THREE 
-No association (REL AND INTEGRATION)
 
 
 
