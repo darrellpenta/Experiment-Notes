@@ -47,42 +47,6 @@ Mixed effect logit regressions???
 
 
 
-2. DISCO
--------
--Transcribed up to 12
--R script to turn the MEL output file into an excel spreadsheet
--R script for creating the F1 and F2 data files
--R script for running factorial analyses
-Goal: Finish transcribing up to 50 and run analyses
----
-* ONLY Critical sentences transcribed-- NP
-* Subject running & transcription-- (Let this guy know)
-* Summer subjects running
-
-=========================================================================
-
-3. REPRIME
--------
--R script for F1 and F2 analyses for SemRel and SemRel 2 items
-Goal: Norming of unrelated items;
-* Transcriptions ( match Mel)?
-* Are lists balanaced? -NP
-* Finish analyses; 
-* 104 is last one transcribed
-group number has list number
-Foxpro skips any line that doesn't start with grop num, sub num, or any num
-trial column, item_subexp_headtype_lntye, Vtime, 
-* list item file (tab delim file)
-
-Relatedness 
-Association
-UNRH--CAT,NONCAT LN
-UNRH--
-2 lists for Semrel, to lists for Cat, 3 for semrel
-6 lists, 72 items pre-list
-36 people
-
-=========================================================================
 
 
 ==========================================================================
