@@ -1,0 +1,14 @@
+
+2. DISCO
+-------
+-Transcribed up to 12
+-R script to turn the MEL output file into an excel spreadsheet
+-R script for creating the F1 and F2 data files
+-R script for running factorial analyses
+Goal: Finish transcribing up to 50 and run analyses
+---
+* ONLY Critical sentences transcribed-- NP
+* Subject running & transcription-- (Let this guy know)
+* Summer subjects running
+
+=========================================================================
