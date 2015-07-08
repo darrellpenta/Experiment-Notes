@@ -1,27 +1,46 @@
-1. SEMREL
--------
+Jul 6, 2015
+
+-For Items, we need all the association versions
+	Transformations: 
+	ASIN vs. LOGIT (no log10)
+	AssHL
+          
+SR No association (Int * Rel) [Max RE]
+SR No association (Ass * Int)
+
+CAT -rel (and/or rel * int) good
+
+SR2 No integration [Max RE]
+
+for ALL  (use the Bates model) ~~~~~~~~~~~~~~~ 
+
+Interpreting model convergence BIC, AIC
+--What would be a criterion for convergence
+--Remove higher order terms 
+
+
++DO ANALYSES ON NORMING DATA
++MAYBE TO THE SEMREL ANALYSES
+
+===========================
+
+
+
+
+============== 6/12 MEETING
 
 
 ============== 6/3 MEETING
---Look at relationships not scaled and centered??
---SEMREL 1 drop association
---CAT rel * Int 
---PROP ALL THREE (all in random effects) 3 way in both
--- Prop full with Just int, just rel
---Tease apart all three 
----ALL THREE 
-No association (REL AND INTEGRATION)
+--Look at relationships not scaled and centered?? Done; not discussed with Neal yet
+--SEMREL 1 drop association. Done 
+--CAT rel * Int. Done
+--PROP ALL THREE (all in random effects) 3 way in both. Done
+--emp log weighted.... Discussed but nothing done
+	--ME of Int 
+	--both as continuous and dichotmous factors
+	--ME of Rel
+--Nuisance factors are regressed out? Discussed. Not done
 
-
-
-
--emp log weighted....
-ME of Int 
---both as continuous and dichotmous factors
-ME of Rel
---Nuisance factors are regressed out??
-********DP 
-5/25 see regression notes docs
 ********NP
 -5/19 - Get all data, including singular
 
@@ -37,13 +56,7 @@ ME of Rel
 
 --Check CAT COR data
 --all three models together (skip resids for overall)
-
-
-=========
-Mixed effect logit regressions???
-
-
-
+ 
 
 
 
