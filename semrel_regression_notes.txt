@@ -5,12 +5,12 @@ Jul 6, 2015
 	ASIN vs. LOGIT (no log10)
 	AssHL
           
-SR No association (Int * Rel) [Max RE]
-SR No association (Ass * Int)
+SR No association (Int * Rel) [Max RE]--DONE
+SR No association (Ass * Int)-- DONE
 
-CAT -rel (and/or rel * int) good
+CAT -rel (and/or rel * int) good - DONE
 
-SR2 No integration [Max RE]
+SR2 No integration [Max RE] --DONE
 
 for ALL  (use the Bates model) ~~~~~~~~~~~~~~~ 
 
@@ -19,7 +19,7 @@ Interpreting model convergence BIC, AIC
 --Remove higher order terms 
 
 
-+DO ANALYSES ON NORMING DATA
++DO ANALYSES ON NORMING DATA -DONE
 +MAYBE TO THE SEMREL ANALYSES
 
 ===========================
