@@ -1,0 +1,33 @@
+---
+title: "R Cheat Sheet"
+author: "Darrell Penta"
+date: "June 12, 2015"
+output: html_document
+---
+
+**COLUMN NAME: Retun a column name**
+```{r}
+colnames(cars)[2]
+```
+
+**COLUMN NUMBER: Retun a column number**
+```{r}
+which( colnames(cars)=="dist")
+```
+
+**COLNAMES: Rename a column**
+```{r}
+names(cars)[names(cars)=="speed"] <- "spud"
+```
+
+Using `plyr`
+```{r}
+library(plyr)
+cars2<-rename(cars, c("spud"="sped", "dist"="dust"))
+head(cars2)
+```
+
+
+**GLOBAL OPTIONS: For Knitr**
+
+`opts_chunk$set(echo=FALSE, tidy=TRUE)`
